@@ -1,0 +1,6 @@
+com.example.lge1119.test.app-tracing-1.2.0-0 C:\Users\lge21\.gradle\caches\transforms-4\51b801412df90390ea338fca9e952083\transformed\tracing-1.2.0\res
+com.example.lge1119.test.app-core-1.6.1-1 C:\Users\lge21\.gradle\caches\transforms-4\f1de0c4edc1152409866ec97a8de439c\transformed\core-1.6.1\res
+com.example.lge1119.test.app-androidTest-2 C:\Users\lge21\lge1119\app\build\generated\res\resValues\androidTest\debug
+com.example.lge1119.test.app-mergeDebugAndroidTestResources-3 C:\Users\lge21\lge1119\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.example.lge1119.test.app-mergeDebugAndroidTestResources-4 C:\Users\lge21\lge1119\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.example.lge1119.test.app-debugAndroidTest-5 C:\Users\lge21\lge1119\app\build\intermediates\merged_res\debugAndroidTest\mergeDebugAndroidTestResources

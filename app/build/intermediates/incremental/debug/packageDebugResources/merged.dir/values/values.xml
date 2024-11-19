@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">lge1119</string>
+    <string name="button_count">Count</string>
+    <string name="button_random">Random</string>
+    <string name="button_toast">Toast</string>
+    <style name="Base.Theme.Lge1119" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+    </style>
+    <style name="Theme.Lge1119" parent="Base.Theme.Lge1119"/>
+</resources>

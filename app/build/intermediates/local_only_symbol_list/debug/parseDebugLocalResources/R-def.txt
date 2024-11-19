@@ -1,0 +1,21 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color white
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+id CountButton
+id RandomButton
+id ToastButton
+id main
+layout activity_main
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+string button_count
+string button_random
+string button_toast
+style Base.Theme.Lge1119
+style Theme.Lge1119
+xml backup_rules
+xml data_extraction_rules
