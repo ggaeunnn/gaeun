@@ -1,7 +1,0 @@
-<resources>
-    <string name="app_name">lge1119</string>
-    <string name="ToastButton">Toast</string>
-    <string name="CountButton">Count</string>
-    <string name="RandomButton">Random</string>
-    <string name="number">0</string>
-</resources>
